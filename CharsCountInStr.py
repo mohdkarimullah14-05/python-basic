@@ -6,4 +6,5 @@ for i in range(0,len(s)):
     else:
         lc[s[i]] = 1
 
+
 print('Characters count in the string : ',lc)
